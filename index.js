@@ -29,5 +29,5 @@ server.listen(port);
 
 function ping() {
   this.res.writeHead(200);
-  this.res.end("Hey, I'm Cool Guy.");
+  this.res.end("(1:1): Jad said, let there be fog. Vape was born. Jad said, let there be drugs. Drugs were born. (1:2) Jad snorted a line of cocaine and said, What the fuck did you just say, you looking at me funny? Hehe just kidding. (1:3): His cock shined like the stars above, as it ripped through many layers of weatherstriken cellulite. The luminosity created lit a great ball of fire into the sky, and he said all is good, the third day.");
 }
